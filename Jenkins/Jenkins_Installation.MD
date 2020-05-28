@@ -2,7 +2,7 @@
 Jenkins is a self-contained Java-based program, ready to run out-of-the-box, with packages for Windows, Mac OS X and other Unix-like operating systems. As an extensible automation server, Jenkins can be used as a simple CI server or turned into the continuous delivery hub for any project.
 
 
-### Prerequisites
+## Prerequisites
 1. EC2 Instance 
    - With Internet Access
    - Security Group with Port `8080` open for internet
